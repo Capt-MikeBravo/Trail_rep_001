@@ -5,6 +5,6 @@
 	smudge = git-lfs smudge -- %f
 [user]
 	name = Capt-MikeBravo
-	email = malay.biswas@aot.edu.in
+	email = “malay.biswas@aot.edu.in”
 [color]
 	ui = auto
